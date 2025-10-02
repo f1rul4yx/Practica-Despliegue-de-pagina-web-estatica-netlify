@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>/</id>
+  <id>http://0.0.0.0:4000/</id>
   <title>Docs</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-10-02T22:59:50+02:00</updated>
+  <updated>2025-10-02T23:01:02+02:00</updated>
   <author>
     <name>Diego Vargas</name>
-    <uri>/</uri>
+    <uri>http://0.0.0.0:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="/"/>
+    href="http://0.0.0.0:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 Diego Vargas </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Mi instalación y configuración de Debian 13</title>
-    <link href="/posts/mi-instalacion-y-configuracion-debian-13/" rel="alternate" type="text/html" title="Mi instalación y configuración de Debian 13" />
+    <link href="http://0.0.0.0:4000/posts/mi-instalacion-y-configuracion-debian-13/" rel="alternate" type="text/html" title="Mi instalación y configuración de Debian 13" />
     <published>2025-10-02T21:17:00+02:00</published>
   
     <updated>2025-10-02T21:17:00+02:00</updated>
   
-    <id>/posts/mi-instalacion-y-configuracion-debian-13/</id>
-    <content type="text/html" src="/posts/mi-instalacion-y-configuracion-debian-13/" />
+    <id>http://0.0.0.0:4000/posts/mi-instalacion-y-configuracion-debian-13/</id>
+    <content type="text/html" src="http://0.0.0.0:4000/posts/mi-instalacion-y-configuracion-debian-13/" />
     <author>
       <name>Diego Vargas</name>
     </author>
@@ -47,13 +47,13 @@
   
   <entry>
     <title>Instalacíon Oracle Database EE (Debian 13)</title>
-    <link href="/posts/instalacion-oracle/" rel="alternate" type="text/html" title="Instalacíon Oracle Database EE (Debian 13)" />
+    <link href="http://0.0.0.0:4000/posts/instalacion-oracle/" rel="alternate" type="text/html" title="Instalacíon Oracle Database EE (Debian 13)" />
     <published>2025-10-02T21:17:00+02:00</published>
   
     <updated>2025-10-02T21:17:00+02:00</updated>
   
-    <id>/posts/instalacion-oracle/</id>
-    <content type="text/html" src="/posts/instalacion-oracle/" />
+    <id>http://0.0.0.0:4000/posts/instalacion-oracle/</id>
+    <content type="text/html" src="http://0.0.0.0:4000/posts/instalacion-oracle/" />
     <author>
       <name>Diego Vargas</name>
     </author>
@@ -73,13 +73,13 @@
   
   <entry>
     <title>Instalacion GNS3 (Debian 13)</title>
-    <link href="/posts/instalacion-gns3/" rel="alternate" type="text/html" title="Instalacion GNS3 (Debian 13)" />
+    <link href="http://0.0.0.0:4000/posts/instalacion-gns3/" rel="alternate" type="text/html" title="Instalacion GNS3 (Debian 13)" />
     <published>2025-10-02T21:17:00+02:00</published>
   
     <updated>2025-10-02T21:17:00+02:00</updated>
   
-    <id>/posts/instalacion-gns3/</id>
-    <content type="text/html" src="/posts/instalacion-gns3/" />
+    <id>http://0.0.0.0:4000/posts/instalacion-gns3/</id>
+    <content type="text/html" src="http://0.0.0.0:4000/posts/instalacion-gns3/" />
     <author>
       <name>Diego Vargas</name>
     </author>
