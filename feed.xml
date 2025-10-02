@@ -1,1 +1,101 @@
-<feed xmlns="http://www.w3.org/2005/Atom"> <id>/</id><title>Chirpy</title><subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle> <updated>2025-10-02T22:34:40+02:00</updated> <author> <name>your_full_name</name> <uri>/</uri> </author><link rel="self" type="application/atom+xml" href="/feed.xml"/><link rel="alternate" type="text/html" hreflang="en" href="/"/> <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator> <rights> © 2025 your_full_name </rights> <icon>/assets/img/favicons/favicon.ico</icon> <logo>/assets/img/favicons/favicon-96x96.png</logo> <entry><title>Mi instalación y configuración de Debian 13</title><link href="/posts/mi-instalacion-y-configuracion-debian-13/" rel="alternate" type="text/html" title="Mi instalación y configuración de Debian 13" /><published>2025-10-02T21:17:00+02:00</published> <updated>2025-10-02T21:17:00+02:00</updated> <id>/posts/mi-instalacion-y-configuracion-debian-13/</id> <content type="text/html" src="/posts/mi-instalacion-y-configuracion-debian-13/" /> <author> <name>your_full_name</name> </author> <category term="Instalacion" /> <category term="Debian" /> <summary>Instalación Debian 13 Linux Base + GRUB Zen + Code + SSH Bspwm</summary> </entry> <entry><title>Instalacíon Oracle Database EE (Debian 13)</title><link href="/posts/instalacion-oracle/" rel="alternate" type="text/html" title="Instalacíon Oracle Database EE (Debian 13)" /><published>2025-10-02T21:17:00+02:00</published> <updated>2025-10-02T21:17:00+02:00</updated> <id>/posts/instalacion-oracle/</id> <content type="text/html" src="/posts/instalacion-oracle/" /> <author> <name>your_full_name</name> </author> <category term="Instalacion" /> <category term="Base de Datos" /> <summary>Instalación de dependencias Lo primero será instalar los paquetes necesarios para poder instalar y usar el software. sudo apt update sudo apt install rlwrap libaio1t64 libaio-dev unixodbc wget -y Antes para instalar Oracle Database en Debian 12 se necesitaba el paquete libaio1 pero en Debian 13 ese paquete ha cambiado de nombre (libaio1t64). Como Oracle Database busca el fichero /usr/lib...</summary> </entry> <entry><title>Instalacion GNS3 (Debian 13)</title><link href="/posts/instalacion-gns3/" rel="alternate" type="text/html" title="Instalacion GNS3 (Debian 13)" /><published>2025-10-02T21:17:00+02:00</published> <updated>2025-10-02T21:17:00+02:00</updated> <id>/posts/instalacion-gns3/</id> <content type="text/html" src="/posts/instalacion-gns3/" /> <author> <name>your_full_name</name> </author> <category term="Instalacion" /> <category term="GNS3" /> <summary>Instalación Wireshark Para instalar Wireshark lo primero será ejecutar el siguiente comando: sudo apt install wireshark -y En el proceso de instalación aparecerá una opción: Debemos pulsar en “Sí”, ya que nos está preguntando si queremos poder usar Wireshark con un usuario sin privilegios de sudo. Para conseguir usar Wireshark sin privilegios sudo, también debemos dar permisos de ejecución par...</summary> </entry> </feed>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>/</id>
+  <title>Docs</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2025-10-02T22:56:08+02:00</updated>
+  <author>
+    <name>Diego Vargas</name>
+    <uri>/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Diego Vargas </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Mi instalación y configuración de Debian 13</title>
+    <link href="/posts/mi-instalacion-y-configuracion-debian-13/" rel="alternate" type="text/html" title="Mi instalación y configuración de Debian 13" />
+    <published>2025-10-02T21:17:00+02:00</published>
+  
+    <updated>2025-10-02T21:17:00+02:00</updated>
+  
+    <id>/posts/mi-instalacion-y-configuracion-debian-13/</id>
+    <content type="text/html" src="/posts/mi-instalacion-y-configuracion-debian-13/" />
+    <author>
+      <name>Diego Vargas</name>
+    </author>
+
+  
+    
+    <category term="Instalacion" />
+    
+    <category term="Debian" />
+    
+  
+
+  <summary>Instalación Debian 13                                                      Linux Base + GRUB                    Zen + Code + SSH              Bspwm</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Instalacíon Oracle Database EE (Debian 13)</title>
+    <link href="/posts/instalacion-oracle/" rel="alternate" type="text/html" title="Instalacíon Oracle Database EE (Debian 13)" />
+    <published>2025-10-02T21:17:00+02:00</published>
+  
+    <updated>2025-10-02T21:17:00+02:00</updated>
+  
+    <id>/posts/instalacion-oracle/</id>
+    <content type="text/html" src="/posts/instalacion-oracle/" />
+    <author>
+      <name>Diego Vargas</name>
+    </author>
+
+  
+    
+    <category term="Instalacion" />
+    
+    <category term="Base de Datos" />
+    
+  
+
+  <summary>Instalación de dependencias  Lo primero será instalar los paquetes necesarios para poder instalar y usar el software.  sudo apt update sudo apt install rlwrap libaio1t64 libaio-dev unixodbc wget -y      Antes para instalar Oracle Database en Debian 12 se necesitaba el paquete libaio1 pero en Debian 13 ese paquete ha cambiado de nombre (libaio1t64). Como Oracle Database busca el fichero /usr/lib...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Instalacion GNS3 (Debian 13)</title>
+    <link href="/posts/instalacion-gns3/" rel="alternate" type="text/html" title="Instalacion GNS3 (Debian 13)" />
+    <published>2025-10-02T21:17:00+02:00</published>
+  
+    <updated>2025-10-02T21:17:00+02:00</updated>
+  
+    <id>/posts/instalacion-gns3/</id>
+    <content type="text/html" src="/posts/instalacion-gns3/" />
+    <author>
+      <name>Diego Vargas</name>
+    </author>
+
+  
+    
+    <category term="Instalacion" />
+    
+    <category term="GNS3" />
+    
+  
+
+  <summary>Instalación Wireshark Para instalar Wireshark lo primero será ejecutar el siguiente comando: sudo apt install wireshark -y  En el proceso de instalación aparecerá una opción: Debemos pulsar en “Sí”, ya que nos está preguntando si queremos poder usar Wireshark con un usuario sin privilegios de sudo. Para conseguir usar Wireshark sin privilegios sudo, también debemos dar permisos de ejecución par...</summary>
+
+  </entry>
+
+</feed>
+
+
