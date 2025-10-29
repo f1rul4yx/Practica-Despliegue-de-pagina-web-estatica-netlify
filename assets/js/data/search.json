@@ -1,6 +1,15 @@
 [
   
   {
+    "title": "Prueba",
+    "url": "/posts/prueba/",
+    "categories": "prueba",
+    "tags": "prueba",
+    "date": "2025-10-29 21:02:00 +0100",
+    "content": "Hola Mundo     Esto es una prueba   sudo apt update"
+  },
+  
+  {
     "title": "Hola Mundo",
     "url": "/posts/hola-mundo/",
     "categories": "Hola, Mundo",

@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Docs</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-10-29T22:02:58+01:00</updated>
+  <updated>2025-10-29T22:09:33+01:00</updated>
   <author>
     <name>Diego Vargas</name>
     <uri>/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Prueba</title>
+    <link href="/posts/prueba/" rel="alternate" type="text/html" title="Prueba" />
+    <published>2025-10-29T21:02:00+01:00</published>
+  
+    <updated>2025-10-29T21:02:00+01:00</updated>
+  
+    <id>/posts/prueba/</id>
+    <content type="text/html" src="/posts/prueba/" />
+    <author>
+      <name>Diego Vargas</name>
+    </author>
+
+  
+    
+    <category term="prueba" />
+    
+  
+
+  <summary>Hola Mundo     Esto es una prueba   sudo apt update</summary>
+
+  </entry>
 
   
   <entry>
