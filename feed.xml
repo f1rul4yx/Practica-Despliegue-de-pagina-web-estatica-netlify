@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Docs</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-10-30T12:21:19+01:00</updated>
+  <updated>2025-10-30T12:21:54+01:00</updated>
   <author>
     <name>Diego Vargas</name>
     <uri>/</uri>
@@ -22,9 +22,9 @@
   <entry>
     <title></title>
     <link href="/posts/2025-10-30-examen/" rel="alternate" type="text/html" title="" />
-    <published>2025-10-30T12:21:19+01:00</published>
+    <published>2025-10-30T12:21:54+01:00</published>
   
-    <updated>2025-10-30T12:21:19+01:00</updated>
+    <updated>2025-10-30T12:21:54+01:00</updated>
   
     <id>/posts/2025-10-30-examen/</id>
     <content type="text/html" src="/posts/2025-10-30-examen/" />
