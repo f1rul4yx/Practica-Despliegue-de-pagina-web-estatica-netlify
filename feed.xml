@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Docs</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-10-30T12:23:11+01:00</updated>
+  <updated>2025-10-30T12:23:39+01:00</updated>
   <author>
     <name>Diego Vargas</name>
     <uri>/</uri>
@@ -20,11 +20,11 @@
 
   
   <entry>
-    <title>Prueba Introducción a la implantación de aplicaciones web</title>
-    <link href="/posts/examen/" rel="alternate" type="text/html" title="Prueba Introducción a la implantación de aplicaciones web" />
+    <title>Prueba: Introducción a la implantación de aplicaciones web</title>
+    <link href="/posts/examen/" rel="alternate" type="text/html" title="Prueba: Introducción a la implantación de aplicaciones web" />
     <published>2025-10-30T11:15:00+01:00</published>
   
-    <updated>2025-10-30T11:15:00+01:00</updated>
+    <updated>2025-10-30T12:23:11+01:00</updated>
   
     <id>/posts/examen/</id>
     <content type="text/html" src="/posts/examen/" />
