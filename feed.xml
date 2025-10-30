@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Docs</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-10-29T22:09:33+01:00</updated>
+  <updated>2025-10-30T12:21:19+01:00</updated>
   <author>
     <name>Diego Vargas</name>
     <uri>/</uri>
@@ -20,51 +20,23 @@
 
   
   <entry>
-    <title>Prueba</title>
-    <link href="/posts/prueba/" rel="alternate" type="text/html" title="Prueba" />
-    <published>2025-10-29T21:02:00+01:00</published>
+    <title></title>
+    <link href="/posts/2025-10-30-examen/" rel="alternate" type="text/html" title="" />
+    <published>2025-10-30T12:21:19+01:00</published>
   
-    <updated>2025-10-29T21:02:00+01:00</updated>
+    <updated>2025-10-30T12:21:19+01:00</updated>
   
-    <id>/posts/prueba/</id>
-    <content type="text/html" src="/posts/prueba/" />
+    <id>/posts/2025-10-30-examen/</id>
+    <content type="text/html" src="/posts/2025-10-30-examen/" />
     <author>
       <name>Diego Vargas</name>
     </author>
 
   
     
-    <category term="prueba" />
-    
   
 
-  <summary>Hola Mundo     Esto es una prueba   sudo apt update</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Hola Mundo</title>
-    <link href="/posts/hola-mundo/" rel="alternate" type="text/html" title="Hola Mundo" />
-    <published>2025-10-02T23:20:00+02:00</published>
-  
-    <updated>2025-10-03T12:41:57+02:00</updated>
-  
-    <id>/posts/hola-mundo/</id>
-    <content type="text/html" src="/posts/hola-mundo/" />
-    <author>
-      <name>Diego Vargas</name>
-    </author>
-
-  
-    
-    <category term="Hola" />
-    
-    <category term="Mundo" />
-    
-  
-
-  <summary>Hola Mundo Hola Mundo    Hola mundo   Ping a Marina</summary>
+  <summary>Diego Vargas Gómez de Requena  30-10-2025</summary>
 
   </entry>
 

@@ -1,21 +1,12 @@
 [
   
   {
-    "title": "Prueba",
-    "url": "/posts/prueba/",
-    "categories": "prueba",
-    "tags": "prueba",
-    "date": "2025-10-29 21:02:00 +0100",
-    "content": "Hola Mundo     Esto es una prueba   sudo apt update"
-  },
-  
-  {
-    "title": "Hola Mundo",
-    "url": "/posts/hola-mundo/",
-    "categories": "Hola, Mundo",
-    "tags": "Hola, Mundo",
-    "date": "2025-10-02 23:20:00 +0200",
-    "content": "Hola Mundo Hola Mundo    Hola mundo   Ping a Marina"
+    "title": null,
+    "url": "/posts/2025-10-30-examen/",
+    "categories": "",
+    "tags": "",
+    "date": "2025-10-30 12:21:19 +0100",
+    "content": "Diego Vargas Gómez de Requena  30-10-2025"
   },
   
   {
